@@ -1,29 +1,36 @@
-# Excel-Sales-analytics-**Project objective:** 
+I'm excited to present my recent project : AtliQ Hadware's Sales and Finance Analysis. 
 
-    **1.** Create a _[customer performance report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+This project focuses on empowering business stakeholders with data driven business insights using microsoft Excel.
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+Project overview:
 
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
-
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
-
-- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+.Company Focus :AtliQ Hardware maufactures and sells products like Computers , Keyboards and Mouse etc .
 
 
-## Finance Report :
+.Steps taken to build this report:
 
-- **Project objective:** 
+1. ETL( Extract ,Transform ,Load )
+2. Data transformation using Power Query 
+3. Pivot tables and Power Pivot 
+4. Data Modeling 
+5. Creating DAX (Data Analysis Expressions ) & Calculated Columns 
+6. Conditional formatting 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+Sales report :
 
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+ Developed a customer performance report.
+ Compared market Performance vs Targets.
+ Highlighted key Product Metrics : Top 10 Products by Net Sales in 2021,Top & Bottom 5 products by Quantity ,New products launched in 2021 , Top 5 countries by Net Sales in 2021 and Division report 
 
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+ Finance Report:
+ 
+ Produced Profit & Loss (P&L) Statements by Fiscal year and Months 
+ Created Profit & Loss (P&L) and Gross Margin % Reports by Markets 
 
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+ What I Learned :
+ . Problem- Solving Mindset :Leveraged data to Support business decisions effectively .
+
 
 
 ## Technical & Soft Skills:
